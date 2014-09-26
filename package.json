@@ -7,7 +7,7 @@
     "start": "serv",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Magnus Landerblom <magnus@landerblom.se>",
   "license": "ISC",
   "dependencies": {
     "rave": "^0.4.0",
