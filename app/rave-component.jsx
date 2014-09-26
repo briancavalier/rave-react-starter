@@ -14,7 +14,7 @@ module.exports = React.createClass({
   },
 
   componentDidMount: function() {
-    setInterval(this.doTurn, 1000);
+    setInterval(this.doTurn, 500);
   },
 
   doTurn: function() {
