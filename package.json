@@ -1,14 +1,26 @@
 {
   "name": "rave-react-start",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rave starter for React",
+  "homepage": "https://github.com/snichme/rave-react-starter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snichme/rave-react-starter.git"
+  },
+  "keywords": [
+    "rave",
+    "react"
+  ],
+  "author": "Magnus Landerblom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snichme/rave-react-starter/issues"
+  },
   "main": "app/main.js",
   "scripts": {
     "start": "serv",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Magnus Landerblom <magnus@landerblom.se>",
-  "license": "ISC",
   "dependencies": {
     "rave": "^0.4.0",
     "rave-load-css": "^0.5.0",
